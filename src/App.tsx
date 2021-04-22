@@ -12,7 +12,7 @@ function App() {
       <MuiThemeProvider theme={theme}>
         <CssBaseline/>
         <Container>
-          <Title>Cadastro de Usuários</Title>
+          <Title>Usuários</Title>
           <Grid container>
             <Grid item xs={7}>
               <Form />
